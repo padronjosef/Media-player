@@ -5,7 +5,8 @@
   "license": "MIT",
   "author": "Jose A. Padron <josepadron.go@gmail.com>",
   "keywords": [
-    "platzi"
+    "media",
+    "player"
   ],
   "scripts": {
     "start": "live-server"
